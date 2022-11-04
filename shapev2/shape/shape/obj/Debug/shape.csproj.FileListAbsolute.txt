@@ -1,0 +1,8 @@
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\bin\Debug\shape.exe.config
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\bin\Debug\shape.exe
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\bin\Debug\shape.pdb
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\obj\Debug\shape.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\obj\Debug\shape.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\obj\Debug\shape.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\obj\Debug\shape.exe
+C:\Users\PSCAD\Desktop\shapev2\shape\shape\obj\Debug\shape.pdb
